@@ -25,6 +25,6 @@
 
 #### Logo:
 
-   Learn Swift | Learn Swift
+   Learn Swift `#F56300` | Learn Swift `#F56300`
   :-------------------------:|:-------------------------:
   ![Learn Swift Logo](https://github.com/patashale/learn-swift/assets/68323012/ae6cd45a-b88d-40b5-9af7-93bf4c0a4fdd) | ![Learn Swift Logo](https://github.com/patashale/learn-swift/assets/68323012/ae6cd45a-b88d-40b5-9af7-93bf4c0a4fdd)
